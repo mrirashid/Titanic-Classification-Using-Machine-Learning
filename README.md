@@ -63,7 +63,14 @@ The model is evaluated using:
 The model achieved an accuracy of 82% on the test dataset.
 
 The most important features for predicting survival are:
-![Uploading Accuracy.png.jpg…]()
+
+![Accuracy png](https://github.com/user-attachments/assets/4ad64197-3555-4881-bb11-15835ff43189)
+
+![Confusion_Matrix png](https://github.com/user-attachments/assets/f9f3bd8d-8cc1-4775-9e56-4eb458ba7921)
+
+![Feature importance png](https://github.com/user-attachments/assets/a41ef539-1937-4c9c-96ee-8e2a51155982)
+
+
 ## Conclusion
 This project demonstrates the use of Random Forests for classification problems and provides insights into the factors affecting the survival of passengers on the Titanic. Further improvements could include testing different models, tuning hyperparameters, and using advanced feature engineering techniques.
 
